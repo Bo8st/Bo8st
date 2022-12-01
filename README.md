@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bo8st
-- Just a normalperson who likes programming alot.
+- Just a normal person who likes programming alot.
 
 <!---
 Bo8st/Bo8st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
